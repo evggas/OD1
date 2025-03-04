@@ -27,7 +27,7 @@ class Stack:
         return len(self.items)
 
 
-# ✅ Тестируем стек
+# Тестируем стек
 stack = Stack()
 stack.push(10)
 stack.push(20)
